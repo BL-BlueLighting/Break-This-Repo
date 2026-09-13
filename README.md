@@ -132,6 +132,10 @@ https://jiwo.l.cd
 
 > 稽窝｜一只滑稽的小窝
 
+https://airoj.cn
+
+> AirOJ | 开放、和谐（？）、性能烂、抽象的 Online Judge
+
 > [!important]
 > Also try Minecraft and Terraria
 
